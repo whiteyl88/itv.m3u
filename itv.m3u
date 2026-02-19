@@ -23,6 +23,8 @@ http://39.164.138.145:8899/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="都市频道" group-title="我的频道",都市频道
 http://183.129.255.66:8480/hls/19/index.m3u8
 
-
 #EXTINF:-1 tvg-name="湖南卫视" group-title="我的频道",湖南卫视
 http://219.155.95.53:8090/hls/17/index.m3u8
+
+#EXTINF:-1 tvg-name="天津卫视" group-title="我的频道",天津卫视
+http://42.237.163.48:9003/hls/20/index.m3u8
