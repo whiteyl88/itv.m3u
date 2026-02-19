@@ -1,0 +1,24 @@
+#EXTM3U
+
+# =====================
+# 我的频道
+# =====================
+
+#EXTINF:-1 tvg-name="CCTV1" group-title="我的频道",CCTV-1 综合
+http://122.114.131.154:4000/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="我的频道",CCTV-1 综合
+http://39.164.138.145:8899/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="我的频道",CCTV-1 综合
+http://183.129.255.66:8480/hls/1/index.m3u8
+
+#EXTINF:-1 tvg-name="河南卫视" group-title="我的频道",河南卫视
+http://39.164.138.145:8899/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="我的频道",河南卫视
+http://183.129.255.66:8480/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" group-title="我的频道",河南卫视
+http://125.40.199.223:8092/hls/18/index.m3u8
+
+#EXTINF:-1 tvg-name="都市频道" group-title="我的频道",都市频道
+http://39.164.138.145:8899/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="都市频道" group-title="我的频道",都市频道
+http://183.129.255.66:8480/hls/19/index.m3u8
